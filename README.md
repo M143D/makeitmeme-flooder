@@ -1,6 +1,6 @@
 # makeitmeme-flooder ✅
 yeah its a https://makeitmeme.com/ flooder can be public or private lobby
-
+avatar.txt contains all the avatars including premium once
 
 
 
