@@ -19,7 +19,10 @@ avatar.txt contains all the avatars including premium once
 
 # Showcase 📷
 
-![ddsaa](https://github.com/user-attachments/assets/e9ca57da-bc49-4fa0-acdd-d3bbf7ab52a0)
+
+
+https://github.com/user-attachments/assets/cc7a70e5-5878-46df-bde5-8f1ebdbf0cf4
+
 
 
 
